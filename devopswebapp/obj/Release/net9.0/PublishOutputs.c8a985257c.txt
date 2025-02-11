@@ -1,0 +1,7 @@
+D:\DevOps\.NetProject\devopswebapp\Publish\devopswebapp.exe
+D:\DevOps\.NetProject\devopswebapp\Publish\appsettings.Development.json
+D:\DevOps\.NetProject\devopswebapp\Publish\appsettings.json
+D:\DevOps\.NetProject\devopswebapp\Publish\devopswebapp.dll
+D:\DevOps\.NetProject\devopswebapp\Publish\devopswebapp.deps.json
+D:\DevOps\.NetProject\devopswebapp\Publish\devopswebapp.runtimeconfig.json
+D:\DevOps\.NetProject\devopswebapp\Publish\devopswebapp.pdb
