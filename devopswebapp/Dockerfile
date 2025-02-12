@@ -16,7 +16,7 @@ RUN dotnet build "devopswebapp.csproj" -c Release -o /app/build
 
 FROM build AS publish
 #ARG configuration=Release
-RUN dotnet publish "devopswebapp.csproj" -c Release -o /app/publish /apps/publish
+RUN dotnet publish "devopswebapp.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
