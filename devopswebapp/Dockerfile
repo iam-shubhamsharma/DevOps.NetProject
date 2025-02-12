@@ -5,18 +5,18 @@ EXPOSE 443
 
 ENV ASPNETCORE_URLS=http://+:80
 
-FROM --platform=linux mcr.microsoft.com/dotnet/sdk:9.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 #ARG configuration="Release"
 WORKDIR /src
-COPY ["devopswebapp.csproj", "devopswebapp/"]
-RUN dotnet restore "devopswebapp/devopswebapp.csproj"
+COPY ["devopswebapp.csproj", "./"]
+RUN dotnet restore "devopswebapp.csproj"
 COPY . .
-WORKDIR "/src/devopswebapp"
+WORKDIR "/src/."
 RUN dotnet build "devopswebapp.csproj" -c Release -o /app/build
 
 FROM build AS publish
 #ARG configuration=Release
-RUN dotnet publish "devopswebapp.csproj" -c Release -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "devopswebapp.csproj" -c Release -o /app/publish /apps/publish
 
 FROM base AS final
 WORKDIR /app
