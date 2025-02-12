@@ -171,3 +171,10 @@ D:\DevOps\.NetProject\devopswebapp.Tests\obj\Debug\net9.0\refint\devopswebapp.Te
 D:\DevOps\.NetProject\devopswebapp.Tests\obj\Debug\net9.0\devopswebapp.Tests.pdb
 D:\DevOps\.NetProject\devopswebapp.Tests\obj\Debug\net9.0\devopswebapp.Tests.genruntimeconfig.cache
 D:\DevOps\.NetProject\devopswebapp.Tests\obj\Debug\net9.0\ref\devopswebapp.Tests.dll
+D:\DevOps\.NetProject\devopswebapp.Tests\bin\Debug\net9.0\Publish\web.config
+D:\DevOps\.NetProject\devopswebapp.Tests\bin\Debug\net9.0\Publish\appsettings.Development.json
+D:\DevOps\.NetProject\devopswebapp.Tests\bin\Debug\net9.0\Publish\appsettings.json
+D:\DevOps\.NetProject\devopswebapp.Tests\bin\Debug\net9.0\Publish\devopswebapp.deps.json
+D:\DevOps\.NetProject\devopswebapp.Tests\bin\Debug\net9.0\Publish\devopswebapp.runtimeconfig.json
+D:\DevOps\.NetProject\devopswebapp.Tests\bin\Debug\net9.0\Publish\devopswebapp.staticwebassets.endpoints.json
+D:\DevOps\.NetProject\devopswebapp.Tests\obj\Debug\net9.0\devopswebapp.Tests.sourcelink.json

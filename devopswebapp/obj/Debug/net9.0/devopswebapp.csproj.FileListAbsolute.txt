@@ -1,5 +1,11 @@
+D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\Publish\web.config
 D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\appsettings.Development.json
 D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\appsettings.json
+D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\Publish\appsettings.Development.json
+D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\Publish\appsettings.json
+D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\Publish\devopswebapp.deps.json
+D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\Publish\devopswebapp.runtimeconfig.json
+D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\Publish\devopswebapp.staticwebassets.endpoints.json
 D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\devopswebapp.staticwebassets.runtime.json
 D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\devopswebapp.staticwebassets.endpoints.json
 D:\DevOps\.NetProject\devopswebapp\bin\Debug\net9.0\devopswebapp.exe
@@ -14,6 +20,7 @@ D:\DevOps\.NetProject\devopswebapp\obj\Debug\net9.0\devopswebapp.csproj.CoreComp
 D:\DevOps\.NetProject\devopswebapp\obj\Debug\net9.0\devopswebapp.MvcApplicationPartsAssemblyInfo.cache
 D:\DevOps\.NetProject\devopswebapp\obj\Debug\net9.0\devopswebapp.RazorAssemblyInfo.cache
 D:\DevOps\.NetProject\devopswebapp\obj\Debug\net9.0\devopswebapp.RazorAssemblyInfo.cs
+D:\DevOps\.NetProject\devopswebapp\obj\Debug\net9.0\devopswebapp.sourcelink.json
 D:\DevOps\.NetProject\devopswebapp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\DevOps\.NetProject\devopswebapp\obj\Debug\net9.0\scopedcss\bundle\devopswebapp.styles.css
 D:\DevOps\.NetProject\devopswebapp\obj\Debug\net9.0\scopedcss\projectbundle\devopswebapp.bundle.scp.css
