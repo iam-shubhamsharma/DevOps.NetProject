@@ -8,7 +8,7 @@ ENV ASPNETCORE_URLS=http://+:80
 FROM --platform=linux mcr.microsoft.com/dotnet/sdk:9.0 AS build
 ARG configuration=Release
 WORKDIR /src
-COPY ["devopswebapp/devopswebapp.csproj", "devopswebapp/"]
+COPY ["devopswebapp.csproj", "devopswebapp/"]
 RUN dotnet restore "devopswebapp/devopswebapp.csproj"
 COPY . .
 WORKDIR "/src/devopswebapp"
